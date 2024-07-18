@@ -206,6 +206,21 @@
          <changefreq>daily</changefreq>
     </url>
     <url>
+         <loc>https://FlagMotori.github.io/writeups/misc/writeups/DUCTF/intercept/</loc>
+         <lastmod>2024-07-18</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://FlagMotori.github.io/writeups/misc/writeups/DUCTF/recipe/</loc>
+         <lastmod>2024-07-18</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://FlagMotori.github.io/writeups/misc/writeups/OSCTF/captured_data/</loc>
+         <lastmod>2024-07-18</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
          <loc>https://FlagMotori.github.io/writeups/misc/writeups/PingCTF/internet-cat/</loc>
          <lastmod>2024-07-18</lastmod>
          <changefreq>daily</changefreq>
@@ -302,6 +317,16 @@
     </url>
     <url>
          <loc>https://FlagMotori.github.io/writeups/reverse/writeups/BackdoorCTF/Sl4ydroid/</loc>
+         <lastmod>2024-07-18</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://FlagMotori.github.io/writeups/reverse/writeups/DUCTF/jmp_flag/</loc>
+         <lastmod>2024-07-18</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://FlagMotori.github.io/writeups/reverse/writeups/DUCTF/number_mashing/</loc>
          <lastmod>2024-07-18</lastmod>
          <changefreq>daily</changefreq>
     </url>
